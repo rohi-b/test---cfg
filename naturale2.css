@@ -26,9 +26,9 @@ body{
 }
 @media only screen and (min-width:900px){
     body {
-        background-color: papayawhip);
+        background-color: papayawhip;
     }
-}
+
 
 .row {
     text-align: center;
