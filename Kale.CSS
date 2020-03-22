@@ -1,0 +1,56 @@
+.name{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(51, 25, 7);
+    margin-left: auto;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    margin-right: auto;
+    width: 8em
+}
+body{
+    font-family: 'Fira Mono';
+    background-color: brown;
+}
+.centre {
+    margin-left: auto;
+    margin-top: 250px;
+    margin-bottom: 0px;
+    margin-right: auto;
+    width: 8em
+}
+@media only screen and (min-width: 200px){
+    body {
+        background-color:papayawhip;
+    }
+}
+@media only screen and (min-width:900px){
+    body {
+        background-color: papayawhip);
+    }
+}
+.row {
+    text-align: center;
+    font-size: 15px;
+}
+.column1 {
+    float: left;
+    background-color: rgb(245, 219, 178);
+    width: 33.33%;
+    text-align: center;
+    height: 1500px;
+  }
+  .column2 {
+    float: left;
+    background-color: rgb(243, 224, 192);
+    width: 33.33%;
+    text-align: center;
+    height: 1500px;
+  }
+  .column3 {
+    float: left;
+    background-color:rgb(245, 219, 178);
+    width: 33.33%;
+    text-align: center;
+    height: 1500px;
+  }
