@@ -85,6 +85,8 @@ ul {
 .subject line{
     text-align: center;
     color: rgb(51, 25, 7);
+    left: 50%;
+    margin-right: -50%;
 }
 .topnav {
     background-color: rgb(245, 219, 178);
