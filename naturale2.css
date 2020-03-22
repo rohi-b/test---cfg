@@ -1,16 +1,6 @@
-.name{
-    text-align: center;
-    font-size: 40px;
-    color: rgb(51, 25, 7);
-    margin-left: auto;
-    margin-top: 50px;
-    margin-bottom: 0px;
-    margin-right: auto;
-    width: 8em
-}
 body{
     font-family: 'Fira Mono';
-    background-color: rgb(238, 223, 200);
+    background-color: papayawhip;
 }
 .centre {
     margin-left: auto;
@@ -28,7 +18,7 @@ body{
     body {
         background-color: papayawhip;
     }
-
+}
 
 .row {
     text-align: center;
@@ -54,4 +44,60 @@ body{
     width: 33.33%;
     text-align: center;
     height: 1500px;
+  }
+  
+.title{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(51, 25, 7);
+    margin-left: auto;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    margin-right: auto;
+    width: 8em
+}
+
+.subject line{
+    text-align: center;
+    color: rgb(51, 25, 7);
+}
+.topnav {
+    background-color: rgb(245, 219, 178);
+    overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color:  rgb(141, 108, 54);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: papayawhip;
+  color: rgb(46, 33, 11);
+}
+
+.topnav a.active {
+  background-color: papayawhip;
+  color:rgb(46, 33, 11);
+}
+.fruitbowl{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.column {
+    float: left;
+    text-align: center;
+    width: 16%;
+    padding: 0px;
+  }
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
   }
