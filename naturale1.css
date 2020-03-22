@@ -84,7 +84,7 @@ ul {
     width: 8em
 }
 
-..subject line {
+div.subject line {
     text-align: center;
     color: rgb(51, 25, 7);
 }
