@@ -32,17 +32,17 @@ body{
 .column1 {
     float: left;
     background-color: rgb (245, 219, 178);
-    width: 32%;
+    width: 32.5%;
     text-align: center;
     height: 1500px;
     border-style: solid;
-    border-color: black;
+    border-color: rgb(238, 219, 186);
   }
 
   .column2 {
     float: left;
     background-color: rgb(243, 224, 192);
-    width: 32%;
+    width: 32.5%;
     text-align: center;
     height: 1500px;
     border-style: solid;
@@ -52,11 +52,11 @@ body{
   .column3 {
     float: left;
     background-color:rgb (245, 219, 178);
-    width: 32%;
+    width: 32.5%;
     text-align: center;
     height: 1500px;
     border-style: solid;
-    border-color:rgb(238, 219, 186);
+    border-color: rgb(238, 219, 186);
   }
 
 .ul {
