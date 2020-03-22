@@ -31,7 +31,7 @@ body{
 .column1 {
     float: left;
     background-color: rgb(245, 219, 178);
-    width: 29%;
+    width: 30%;
     text-align: center;
     height: 1500px;
     border-style: solid;
@@ -40,20 +40,20 @@ body{
   .column2 {
     float: left;
     background-color: rgb(243, 224, 192);
-    width: 29%;
+    width: 30%;
     text-align: center;
     height: 1500px;
-      border-style: solid;
+    border-style: solid;
     border-color:rgb(238, 219, 186);
   }
   .column3 {
     float: left;
     background-color:rgb(245, 219, 178);
-    width: 29%;
+    width: 30%;
     text-align: center;
     height: 1500px;
-      border-style: solid;
-   border-color:rgb(238, 219, 186);
+    border-style: solid;
+    border-color:rgb(238, 219, 186);
   }
 
 ul {
@@ -85,8 +85,6 @@ ul {
 .subject line {
     text-align: center;
     color: rgb(51, 25, 7);
-    left: 50%;
-    margin-right: -50%;
 }
 .topnav {
     background-color: rgb(245, 219, 178);
