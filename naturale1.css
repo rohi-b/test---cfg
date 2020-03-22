@@ -38,6 +38,7 @@ body{
     border-style: solid;
     border-color: black;
   }
+
   .column2 {
     float: left;
     background-color: rgb(243, 224, 192);
@@ -47,6 +48,7 @@ body{
     border-style: solid;
     border-color: rgb(238, 219, 186);
   }
+
   .column3 {
     float: left;
     background-color:rgb (245, 219, 178);
@@ -57,7 +59,7 @@ body{
     border-color:rgb(238, 219, 186);
   }
 
-ul {
+.ul {
     list-style-type: square;
       list-style-position: inside;
       padding-left: 0;
@@ -72,7 +74,7 @@ ul {
    
 } 
   
-.title{
+.title {
     text-align: center;
     font-size: 40px;
     color: rgb(51, 25, 7);
@@ -110,7 +112,7 @@ div.subject line {
   background-color: papayawhip;
   color:rgb(46, 33, 11);
 }
-.fruitbowl{
+.fruitbowl {
     text-align: center;
     display: block;
     margin-left: auto;
