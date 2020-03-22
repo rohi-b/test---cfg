@@ -31,29 +31,23 @@ body{
 .column1 {
     float: left;
     background-color: rgb(245, 219, 178);
-    width: 30%;
+    width: 33.33%;
     text-align: center;
     height: 1500px;
-    border-style: solid;
-    border-color:rgb(238, 219, 186);
   }
   .column2 {
     float: left;
     background-color: rgb(243, 224, 192);
-    width: 30%;
+    width: 33.33%;
     text-align: center;
     height: 1500px;
-    border-style: solid;
-    border-color:rgb(238, 219, 186);
   }
   .column3 {
     float: left;
     background-color:rgb(245, 219, 178);
-    width: 30%;
+    width: 33.33%;
     text-align: center;
     height: 1500px;
-    border-style: solid;
-    border-color:rgb(238, 219, 186);
   }
 
 ul {
