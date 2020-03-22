@@ -2,6 +2,10 @@ body{
     font-family: 'Fira Mono';
     background-color: papayawhip;
 }
+.name{
+    text-align: center;
+    font-size: 30px;
+}
 .centre {
     margin-left: auto;
     margin-top: 250px;
