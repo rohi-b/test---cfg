@@ -87,6 +87,7 @@ body{
 
 div.subject line {
     text-align: center;
+    align-items: center;
     color: rgb(51, 25, 7);
 }
 .topnav {
