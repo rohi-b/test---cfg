@@ -28,29 +28,53 @@ body{
     text-align: center;
     font-size: 15px;
 }
+
 .column1 {
     float: left;
-    background-color: rgb(245, 219, 178);
-    width: 33.33%;
+    background-color: rgb (245, 219, 178);
+    width: 32.5%;
     text-align: center;
     height: 1500px;
+    border-style: solid;
+    border-color: rgb(238, 219, 186);
   }
+
   .column2 {
     float: left;
     background-color: rgb(243, 224, 192);
-    width: 33.33%;
+    width: 32.5%;
     text-align: center;
     height: 1500px;
+    border-style: solid;
+    border-color: rgb(238, 219, 186);
   }
+
   .column3 {
     float: left;
-    background-color:rgb(245, 219, 178);
-    width: 33.33%;
+    background-color:rgb (245, 219, 178);
+    width: 32.5%;
     text-align: center;
     height: 1500px;
+    border-style: solid;
+    border-color: rgb(238, 219, 186);
   }
+
+.ul {
+    list-style-type: square;
+      list-style-position: inside;
+      padding-left: 0;
+  }
+
+  .centered{
+    width:150px;  
+    height:150px; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+} 
   
-.title{
+.title {
     text-align: center;
     font-size: 40px;
     color: rgb(51, 25, 7);
@@ -61,8 +85,9 @@ body{
     width: 8em
 }
 
-.subject line{
+div.subject line {
     text-align: center;
+    align-items: center;
     color: rgb(51, 25, 7);
 }
 .topnav {
@@ -88,7 +113,7 @@ body{
   background-color: papayawhip;
   color:rgb(46, 33, 11);
 }
-.fruitbowl{
+.fruitbowl {
     text-align: center;
     display: block;
     margin-left: auto;
