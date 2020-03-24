@@ -101,9 +101,11 @@ body{
   color:rgb(46, 33, 11);
 }
 .fruitbowl {
-  display: flex;
-  align-self: center;
-  width:100%
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  
 }
 .column {
     float: left;
