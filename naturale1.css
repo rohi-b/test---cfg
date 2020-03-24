@@ -20,7 +20,7 @@ body{
 .column1 {
     float: left;
     background-color: rgb (245, 219, 178);
-    width: 32%;
+    width: 31%;
     text-align: center;
     height:206vh;
     border-style: solid;
@@ -30,7 +30,7 @@ body{
   .column2 {
     float: left;
     background-color: rgb(243, 224, 192);
-    width: 32%;
+    width: 31%;
     text-align: center;
     height:206vh;
     border-style: solid;
@@ -40,7 +40,7 @@ body{
   .column3 {
     float: left;
     background-color:rgb (245, 219, 178);
-    width: 32%;
+    width: 31%;
     text-align: center;
     height:206vh;
     border-style: solid;
