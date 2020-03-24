@@ -4,7 +4,7 @@ body{
 }
 .name{
     text-align: center;
-    font-size: 30px;
+    font-size: 3vw;
 }
 .centre {
     margin-left: auto;
@@ -13,28 +13,16 @@ body{
     margin-right: auto;
     width: 8em
 }
-@media only screen and (min-width: 200px){
-    body {
-        background-color: rgb(219, 189, 141)p;
-    }
-}
-@media only screen and (min-width:900px){
-    body {
-        background-color: papayawhip;
-    }
-}
-
 .row {
     text-align: center;
-    font-size: 15px;
 }
 
 .column1 {
     float: left;
     background-color: rgb (245, 219, 178);
-    width: 32.5%;
+    width: 32%;
     text-align: center;
-    height: 1500px;
+    height:120vh;
     border-style: solid;
     border-color: rgb(238, 219, 186);
   }
@@ -42,9 +30,9 @@ body{
   .column2 {
     float: left;
     background-color: rgb(243, 224, 192);
-    width: 32.5%;
+    width: 32%;
     text-align: center;
-    height: 1500px;
+    height:120vh;
     border-style: solid;
     border-color: rgb(238, 219, 186);
   }
@@ -52,9 +40,9 @@ body{
   .column3 {
     float: left;
     background-color:rgb (245, 219, 178);
-    width: 32.5%;
+    width: 32%;
     text-align: center;
-    height: 1500px;
+    height:120vh;
     border-style: solid;
     border-color: rgb(238, 219, 186);
   }
@@ -100,7 +88,7 @@ body{
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 1.49vw;
 }
 
 .topnav a:hover {
@@ -147,6 +135,12 @@ body{
     100% { transform: translate(1px, -2px) rotate(-1deg); }
   }
   .responsive {
+    width: 100%;
+    max-width: 150px;
+    height: auto;
+  }
+
+  .responsive2 {
     width: 100%;
     max-width: 200px;
     height: auto;
