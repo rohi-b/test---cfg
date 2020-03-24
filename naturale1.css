@@ -85,9 +85,8 @@ body{
     width: 8em
 }
 
-div.subject line {
+.subject line {
     text-align: center;
-    align-items: center;
     color: rgb(51, 25, 7);
 }
 .topnav {
