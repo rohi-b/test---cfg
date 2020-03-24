@@ -64,13 +64,9 @@ body{
   
 .title {
     text-align: center;
-    font-size: 40px;
-    color: rgb(51, 25, 7);
     margin-left: auto;
-    margin-top: 50px;
-    margin-bottom: 0px;
     margin-right: auto;
-    width: 8em
+    width: 100%
 }
 
 .subject line {
